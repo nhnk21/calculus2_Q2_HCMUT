@@ -121,20 +121,6 @@ After opening the application, users can:
 
 5. Click the `Visualize` button.
 
-The application will then show:
-
-- the submitted function,
-- the partial derivatives,
-- the value of the function at the selected point,
-- the gradient vector,
-- the unit direction vector,
-- the directional derivative,
-- a short interpretation of the result,
-- a 3D graph of the surface,
-- the tangent plane,
-- the direction curve on the surface,
-- and a 2D cross-section graph.
-
 ## 4. Example
 
 For example, if the input function is:
